@@ -1,0 +1,9 @@
+name: 3D
+author: bigo
+version: 1.0
+main: com.thebigo.main.main
+commands:
+  create:
+    description: created a nigga
+  empty:
+    description: created a nigga
